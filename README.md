@@ -1,5 +1,5 @@
 # 605784_test
-<<<<<<< HEAD
+
 
 Updated for testing purposes
 =======
